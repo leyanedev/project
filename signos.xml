@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <inicio>03-21</inicio>
+        <fim>04-19</fim>
+        <descricao>Corajoso, enérgico, impulsivo.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <inicio>04-20</inicio>
+        <fim>05-20</fim>
+        <descricao>Paciente, confiável, teimoso.</descricao>
+    </signo>
+    <!-- Adicione os outros signos aqui -->
+</signos>

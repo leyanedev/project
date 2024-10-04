@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f4f9;
+}
+
+h1 {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.card-body {
+    background-color: #fff;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+header h3 {
+    margin: 0;
+}
